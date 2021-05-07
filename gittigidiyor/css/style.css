@@ -1,0 +1,104 @@
+.container .row >ul >li a {
+    font-size: 12px;
+    text-decoration: none;
+    color: grey
+
+    
+}
+.container .row >ul >li a:hover {
+    color: #000;
+    background-color: #EEEEEE;
+    border-radius: 30px 30px;
+    padding: 5px 5px;
+}
+#input {
+    width: 600px;
+    height: 50px;
+
+}
+#btn1{
+    height: 50px;
+    width: 137px;
+
+}
+ .navbar .container-fluid .navbar-nav button:hover {
+    color:blue !important;
+    border-bottom: 1px solid blue !important;
+
+
+}
+
+#icon {
+    margin-right: 140px;
+   
+}
+#icon:hover {
+background-color: #000;
+border:#000 2px solid;
+border-radius:0 50px 50px 0;
+   
+}
+
+#icon1 {
+    margin-left: 140px;
+   
+}
+#icon1:hover {
+background-color: #000;
+border:#000 2px solid;
+border-radius:50px 0 0 50px;
+   
+}
+
+#asdf {
+    margin-top: -30px;
+}
+
+#cards {
+    margin-top: -375px;
+}
+
+#header {
+
+    background-color: #FFFFFF;
+
+}
+
+body {
+    background-color: rgb(238,238,238);
+}
+
+/* Sidebar Start*/
+body {
+    font-family: "Lato", sans-serif;
+  }
+
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: grey;
+    display: block;
+  }
+  .sidenav a:hover {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #E1EBFE;
+    color: blue i !important;
+    display: block;
+    width: 100%;
+  }
+  .sidenav a:hover {
+    color: #064579;
+  }
+  
+
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  /* Sidebar  End */
+
